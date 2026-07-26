@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    height: 80px;
+    background-color: #0f1111;
+    display: flex;
+    align-items: center;
+   
+
+}
+.img{
+    width:100px;
+    
+    height: 100px;
+   padding-top: 10px;
+   
+}
+.border{
+    border: 2px solid transparent;
+
+}
+.border:hover{
+    border: 1.5px solid white;
+}
+.first{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.add{
+    display: flex;
+    align-items: center;
+  
+}
+.cont{
+    margin-left: 3px;
+}
+.deliver{
+    margin-left: 14px;
+}
